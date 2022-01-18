@@ -109,8 +109,7 @@ nav {
   color: var(--MainColor);
   font-weight: bold;
 }
-.imgBetweenText p {
-}
+
 .imgBetweenText .imgContainer {
   overflow: hidden;
 }
@@ -121,6 +120,10 @@ nav {
 }
 
 /* End imgBetweenText */
+/* Start contactUs  */
+.contactUs a {
+  border-radius: 50px;
+}
 
 /* Start Calling Button */
 .callingBtn {
